@@ -1,5 +1,5 @@
 # 🐍 Python Complete Notes
-> Beginner to Intermediate+ · Add your own notes below each section
+> Beginner to Intermediate
 
 ---
 
